@@ -1,0 +1,10 @@
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\bin\Debug\Validacion_datos_U2.exe.config
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\bin\Debug\Validacion_datos_U2.exe
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\bin\Debug\Validacion_datos_U2.pdb
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\obj\Debug\Validacion_datos_U2.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\obj\Debug\Validacion_datos_U2.Form1.resources
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\obj\Debug\Validacion_datos_U2.Properties.Resources.resources
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\obj\Debug\Validacion_datos_U2.csproj.GenerateResource.cache
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\obj\Debug\Validacion_datos_U2.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\obj\Debug\Validacion_datos_U2.exe
+C:\Users\Laptop\Documents\UES\2023 - Ciclo 02\Programación 1\Proyectos PRN115\Validacion_datos_U2\Validacion_datos_U2\obj\Debug\Validacion_datos_U2.pdb
