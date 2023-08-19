@@ -1,4 +1,7 @@
 ﻿
+using System;
+using System.Windows.Forms;
+
 namespace Validacion_datos_U2
 {
     partial class Form1
@@ -87,7 +90,7 @@ namespace Validacion_datos_U2
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(100, 20);
             this.txtEmail.TabIndex = 6;
-            this.txtEmail.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtLetras_KeyPress);
+            this.txtEmail.TextChanged += new System.EventHandler(this.txtEmail_TextChanged);
             // 
             // txtNumeros
             // 
@@ -108,6 +111,7 @@ namespace Validacion_datos_U2
             this.btnValidar.TabIndex = 8;
             this.btnValidar.Text = "Validar";
             this.btnValidar.UseVisualStyleBackColor = true;
+            this.btnValidar.Click += new System.EventHandler(this.btnValidar_Click);
             // 
             // btnSalir
             // 
@@ -119,6 +123,7 @@ namespace Validacion_datos_U2
             this.btnSalir.TabIndex = 9;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // Form1
             // 
@@ -139,6 +144,8 @@ namespace Validacion_datos_U2
             this.PerformLayout();
 
         }
+
+        
 
         #endregion
 
